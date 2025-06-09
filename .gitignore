@@ -1,0 +1,19 @@
+build/
+cpm_modules/
+CPM_modules/
+CPM_*.cmake
+.DS_Store
+*.patch
+
+# Visual Studio
+CMakeSettings.json
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# CLion
+.idea/
+compiledDependencies/
+cmake-build-*
+build-*
